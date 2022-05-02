@@ -1,0 +1,4 @@
+com\hendisantika\springbootmongodbdockercompose\model\Employee.class
+com\hendisantika\springbootmongodbdockercompose\SpringbootMongodbDockerComposeApplication.class
+com\hendisantika\springbootmongodbdockercompose\repository\EmployeeRepository.class
+com\hendisantika\springbootmongodbdockercompose\controller\EmployeeController.class
